@@ -1,0 +1,13 @@
+body {
+    font-family: Verdana;
+    font-size: 1.25em;
+}
+
+#visaBtn {
+    margin-top: 20px;
+}
+
+#mySubmit {
+    font-size: 1em;
+    margin-top: 20px;
+}
